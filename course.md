@@ -36,3 +36,24 @@
 - 然后把修改好的东西提交到远程仓库，输入指令
 git push  https://github.com/LanceChin/studyGit.git  master（要提交的分支名称）
 这样就提交到远程仓库了
+
+### 协同开发篇
+
+- 如果说有人要协同开发，现在gitHub上创建一个新分支 feature-index
+ 
+- 然后新建一个文件夹
+git clone https://github.com/LanceChin/studyGit.git 不需要加分支名称
+
+- 然后进入这个文件夹里
+在这里gitbash 一下
+
+- 默认克隆的是主分支
+
+- 在主分支上创建一个分支，分支名称与github上新分支的名称相同feature-index
+
+- 然后切换到feature-index上
+
+- 输入pull https://github.com/LanceChin/studyGit.git
+feature-index（gitHub上新分支名称）
+
+- 这样就可以了。
