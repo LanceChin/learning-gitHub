@@ -57,3 +57,33 @@ git clone https://github.com/LanceChin/studyGit.git 不需要加分支名称
 feature-index（gitHub上新分支名称）
 
 - 这样就可以了。
+
+### 搭建博客篇
+
+- 首先新建一个仓库 仓库的名字前缀要和用户名一样
+
+- 例如我的名字是LanceChin 
+
+- 我的仓库名字就叫LanceChin.github.io
+
+- Add a license : GNU General Public License v3.0
+
+- 然后点击settings
+
+- 中间部位就有一个GitHub Page  
+
+- 第一行就会有这个提示' Your site is published at https://lancechin.github.io/'
+
+- 然后点击那个网站就是你的博客了
+
+- 你可以选择样式为它
+
+- 还可以自己编辑代码去实现样式，至少目前我是这么理解的，没有测试，以后会测试一下
+
+- 至于这个域名low的问题，过几天解决。
+
+
+
+
+
+
